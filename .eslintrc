@@ -6,11 +6,12 @@
   },
   "env": {
     "browser": true,
-    "jest": true
+    "jest": true,
+    "jquery": true,
   },
   "rules": {
     "no-confusing-arrow": 0,
     "react/jsx-quotes": 0,
-    "jsx-quotes": [2, "prefer-double"],
+    "jsx-quotes": 0,
   }
 }
